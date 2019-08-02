@@ -9,3 +9,5 @@ You can preview a live building of this project on `https://events-browser.netli
 ### About this project
 
 This project has been build using functional and stateless components, and the context API. it also uses UiKit framework for styling and request data from the Eventbrite API.
+
+It is hosted using netlify free service, and also uses CD.
