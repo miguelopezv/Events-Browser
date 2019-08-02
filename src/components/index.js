@@ -1,3 +1,4 @@
 import Header from './Header';
-
-export { Header };
+import Form from './Form';
+import EventsList from './EventsList';
+export { Header, Form, EventsList };
