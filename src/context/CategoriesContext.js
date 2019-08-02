@@ -8,7 +8,7 @@ class CategoriesProvider extends Component {
   state = {
     categories: []
   };
-  apiKey = API_KEY;
+  apiKey = process.env.API_KEY;
 
   componentDidMount() {
     this.getCategories();
