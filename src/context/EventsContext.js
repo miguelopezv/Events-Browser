@@ -6,7 +6,7 @@ export const EventsConsumer = EventsContext.Consumer;
 
 class EventsProvider extends Component {
   state = { events: [] };
-  apiKey = 'WSBID26I2BP5EGB7SZSS';
+  apiKey = process.env.REACT_APP_API_KEY;
   order = 'date';
 
   getEvents = async params => {
