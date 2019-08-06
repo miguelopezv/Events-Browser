@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6428b341-0c0e-4156-8607-287e660a07dd/deploy-status)](https://app.netlify.com/sites/events-browser/deploys)
 
-You can preview a live building of this project on `https://events-browser.netlify.com`.
+You can preview a live build of this project on [events-browser.netlify.com](https://events-browser.netlify.com)
 
 ### About this project
 
